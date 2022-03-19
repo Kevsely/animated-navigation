@@ -1,4 +1,4 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@300;400&display=swap');
 
 :root {
   --primaryColor: #fff;
@@ -16,7 +16,8 @@ html {
 body {
   margin: 0;
   background: #000;
-
+  font-family: "Fredoka", sans-serif;
+  font-weight: 300;
 }
 
 /* --- Navigation Menu ------------------------------ */
