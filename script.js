@@ -32,4 +32,4 @@ function toggleNav() {
 
 // Event Listeners
 menuIcon.addEventListener("click", toggleNav);
-menuOverlay.addEventListener("click", toggleNav)
+menuOverlay.addEventListener("click", toggleNav);
